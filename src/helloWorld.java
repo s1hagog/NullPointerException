@@ -10,6 +10,7 @@ public class helloWorld {
 
 	/**
 	 * Launch the application.
+	 * Aleksandr moshak 300227832
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
