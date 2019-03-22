@@ -3,8 +3,7 @@ public class NewSuperDuperClass {
 	private int a;
 	private int b;
 	private boolean d;
-	private String h;
-	
+	private String h;	
 
 	public void thisIsSomeStuff() {
 		
@@ -12,5 +11,4 @@ public class NewSuperDuperClass {
 		int b = 3;
 		a = a+b;
 	}
-
 }
