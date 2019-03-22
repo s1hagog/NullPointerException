@@ -31,6 +31,10 @@ public class helloWorld {
 	public helloWorld() {
 		initialize();
 	}
+	
+	public int superCoolMethod(int a, int b) {
+		return a+b;
+	}
 
 	/**
 	 * Initialize the contents of the frame.
